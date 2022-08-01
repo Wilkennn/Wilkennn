@@ -1,4 +1,4 @@
-## Oii eu sou a Wilken Moreira, Desenvolvedor Full-Stack!
+## Oii eu sou o Wilken Moreira, Desenvolvedor Full-Stack!
 <div align="center">
   <a href="https://github.com/Wilkennn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wilkennn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
