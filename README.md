@@ -7,7 +7,7 @@
     <a href="https://www.linkedin.com/in/wilken-moreira-b76a58206/">Wilken Moreira</a>
   </h1>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Wilken+Moreira;I'm+17+years+old;I+from+Brasil,+MG;I+study+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Wilken+Moreira;I'm+17+years+old;I+from+Brazil,+MG;I+study+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
  
   <p align="center">
     Sou Desenvolvedor Full-Stack Junior. 
