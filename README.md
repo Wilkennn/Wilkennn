@@ -1,3 +1,7 @@
+## Hi there 👋, I'm Wilken Moreira
+
+>- 🎓 Software Engineering Student (PUC-MINAS, 4º Semester)
+>- 📍  Brazil, Belo Horizonte, MG
 
 <p align="center">As a junior software engineer, I am enthusiastic about tackling problems and discovering solutions through technology. I am committed to developing my technical and managerial skills, gaining experience in working with teams, coordinating projects, and enhancing software. My approach is based on agile development principles to contribute effectively and continually grow in the field.</p>&nbsp;
 
