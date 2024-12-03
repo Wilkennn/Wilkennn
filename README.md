@@ -83,12 +83,6 @@ As a junior software engineer at <strong>Hubsys</strong>, I am enthusiastic abou
 - **Engenharia de Software Moderna** - Marco Tulio Valente
 - **Entendendo Algoritmos** - Aditya Bhargava
 
-
-## 🎧 My Spotify - What I'm Listening To...
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=4la2jjxm0gvprpjg2ni28o8vf">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=4la2jjxm0gvprpjg2ni28o8vf" alt="Data Card for Spotify">
-</a>
-
 &nbsp;
 
 ## 👋 Contacts:
