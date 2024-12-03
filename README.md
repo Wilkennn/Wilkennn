@@ -76,13 +76,6 @@ As a junior software engineer at <strong>Hubsys</strong>, I am enthusiastic abou
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
-
-## 📚 Books I'm Reading
-
-- **Clean Code** - Robert C. Martin
-- **Engenharia de Software Moderna** - Marco Tulio Valente
-- **Entendendo Algoritmos** - Aditya Bhargava
-
 &nbsp;
 
 ## 👋 Contacts:
